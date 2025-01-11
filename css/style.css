@@ -5,9 +5,9 @@ body {
 }
 
 .toolbar {
-    background-color: #333;
+    background-color: #3d57675a;
     padding: 10px;
-    color: white;
+    color: rgba(223, 220, 220, 0.997);
     text-align: center;
 }
 
