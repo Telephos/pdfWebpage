@@ -1,4 +1,4 @@
-// Specify the URL of the PDF
+//URL of the PDF
 const url = 'docs/ResultLetter.pdf';
 
 // Loading the PDF.js worker explicitly
