@@ -1,5 +1,5 @@
 //URL of the PDF
-const url = 'docs/ResultLetter.pdf';
+const url = 'docs/unity.pdf';
 
 // Loading the PDF.js worker explicitly
 pdfjsLib.GlobalWorkerOptions.workerSrc = 'js/pdf.worker.js';
